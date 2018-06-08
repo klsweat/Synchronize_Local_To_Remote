@@ -19,7 +19,7 @@ Please review my scripts in my folder, to find content needed.
 
 Please watch this video on how to setup your SyncToRemoteScript.txt file. It shows you how to get your ***SSH-RSA** key: https://www.youtube.com/watch?v=H3wBJgmXZUg&t=111s
 
-## Run Powershell
+## Run PowerShell | Start Monitoring File Changes
 
 1. Open PowerShell
 2. cd into the correct directory where your PowerShell script is located.
