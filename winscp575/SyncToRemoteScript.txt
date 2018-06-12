@@ -1,4 +1,4 @@
-#Resources Can be Found here - https://winscp.net/eng/docs/scripting
+@echo off
 
 option batch abort
 option confirm off
