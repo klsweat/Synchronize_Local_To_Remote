@@ -1,0 +1,10 @@
+@echo off
+
+option batch abort
+option confirm off
+open sftp://username:password@ipaddress -hostkey="ssh-rsa 3000 66:a1:2a:23:4d:5c:8b:58:e7:ef:2f:e5:49:3b:3d:32"
+synchronize remote U:\Local_folder /Remote_folder  -filemask="| select2/; flowchart/; calendar/; rails/; DataTables/; digith_template_builder/; html/; p/; vendor/; unploadjquery/; easyredmine_api_tests/; PR_test/; adLDAP/;"
+exit
+
+
+
