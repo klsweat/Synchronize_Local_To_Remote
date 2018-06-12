@@ -1,7 +1,7 @@
 
 # Sync Local Folder to Remote Folder
 
-STOP EDITING FROM YOUR FTP FOLDER!  Here is a fast way to sync your local to remote. Using Power Shell you will be monitoring your local directory for changes and executing a window batch file .bat, that syncs/ uploads your changes made in your local folder to you remote folder.
+STOP EDITING FROM YOUR FTP FOLDER!  Here is a fast way to sync your local to remote. Using Power Shell you will be monitoring your local directory for changes and executing a window batch file .bat, that syncs/ uploads your changes made in your local folder to your remote folder.
 
 ## Follow these steps:
 1. Download WinSCP : https://winscp.net/eng/download.php
@@ -19,7 +19,7 @@ Please review my scripts in my folder, to find content needed.
 
 Please watch this video on how to setup your SyncToRemoteScript.txt file. It shows you how to get your ***SSH-RSA** key: https://www.youtube.com/watch?v=H3wBJgmXZUg&t=111s
 
-## Run Powershell
+## Run PowerShell | Start Monitoring File Changes
 
 1. Open PowerShell
 2. cd into the correct directory where your PowerShell script is located.
