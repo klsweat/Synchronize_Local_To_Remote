@@ -36,3 +36,5 @@ synchronize remote U:\Local_Folder /Remote_Folder -filemask="| select2/; flowcha
 
 **U:\Local_Folder** is my local folder **/Remote_Folder** is my remote folder
 
+** the WScript.vbs run the .bat file silently in the background, so you don't have multiple command windows popping up.
+
